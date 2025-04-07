@@ -1,0 +1,19 @@
+{
+    "name": "git/practika",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zAukaRS",
+            "email": "evgenii-savostin10@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4 | ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+        }
+    }
+}
