@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'git/practika',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'name' => 'php/php',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'a6324641a8042f6d5ddd21206ed13d5519ae6958',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'git/practika' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+        'php/php' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'a6324641a8042f6d5ddd21206ed13d5519ae6958',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
